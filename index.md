@@ -1,5 +1,6 @@
 ---
-Software Insights
+title: Software Insights
+date: 2023-05-08
 ---
 
 About
