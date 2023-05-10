@@ -8,6 +8,3 @@ date: 2023-05-08
 * Software has the power to solve complex problems and improve our lives.
 * Software helps developing critical thinking skills.
 * Quick testing keeps the enthusiasm going.
-
-
-Last updated: {{ page.last_modified_at }}
