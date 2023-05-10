@@ -1,1 +1,2 @@
 theme: minima
+last_modified_at: {{ site.time }}
